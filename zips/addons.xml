@@ -10,12 +10,12 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<description lang="pl">Storytel</description>
-		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+		<disclaimer lang="pl">https://github.com/ottokranz/blomqvist</disclaimer>
 		<summary lang="pl">Storytel</summary>
 		<language>pl</language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>https://github.com/mbebe/blomqvist</website>
+		<website>https://github.com/ottokranz/blomqvist</website>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
@@ -33,12 +33,12 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <description>35mm.online</description>
-        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer>https://github.com/ottokranz/blomqvist</disclaimer>
         <summary>35mm.online</summary>
         <language>pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -56,12 +56,12 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <description>aniwave.to</description>
-        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer>https://github.com/ottokranz/blomqvist</disclaimer>
         <summary>aniwave.to</summary>
         <language>pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -111,15 +111,15 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="pl">Arte.tv PL</description>
-        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="pl">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="pl">Arte.tv PL</summary>
         <description lang="en">Arte.tv PL</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">Arte.tv PL</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -139,12 +139,12 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<description lang="en">Bajeczki24.pl</description>
-		<disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+		<disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
 		<summary lang="en">Bajeczki24.pl</summary>
 		<language>en</language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>https://github.com/mbebe/blomqvist</website>
+		<website>https://github.com/ottokranz/blomqvist</website>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
@@ -193,12 +193,12 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<description lang="en">Bolly 2 tolly</description>
-		<disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+		<disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
 		<summary lang="en">Bolly 2 tolly</summary>
 		<language>en</language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>https://github.com/mbebe/blomqvist</website>
+		<website>https://github.com/ottokranz/blomqvist</website>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
@@ -273,12 +273,12 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="en">https://www.canela.tv/</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">https://www.canela.tv/</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -331,12 +331,12 @@
 <extension point="xbmc.addon.metadata">
   <summary lang="pl">Zasoby serwisu [B]cda.pl[/B]</summary>
   <description lang="pl">Wtyczka umożliwia dostęp do bazy cda.pl</description>
-  <disclaimer lang="en">A private use only. https://github.com/mbebe/blomqvist</disclaimer>
+  <disclaimer lang="en">A private use only. https://github.com/ottokranz/blomqvist</disclaimer>
   <language></language>
   <platform>all</platform>
   <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum>hhttps://github.com/mbebe/blomqvist</forum>
-  <website>https://github.com/mbebe/blomqvist</website>
+  <forum>hhttps://github.com/ottokranz/blomqvist</forum>
+  <website>https://github.com/ottokranz/blomqvist</website>
   <assets>
     <icon>icon.png</icon>
     <fanart>fanart.jpg</fanart>
@@ -357,12 +357,12 @@
 <extension point="xbmc.addon.metadata">
   <summary lang="pl">Zasoby serwisu [B]cda.pl[/B]</summary>
   <description lang="pl">Wtyczka umożliwia dostęp do bazy cda.pl</description>
-  <disclaimer lang="en">A private use only. https://github.com/mbebe/blomqvist</disclaimer>
+  <disclaimer lang="en">A private use only. https://github.com/ottokranz/blomqvist</disclaimer>
   <language></language>
   <platform>all</platform>
   <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum>hhttps://github.com/mbebe/blomqvist</forum>
-  <website>https://github.com/mbebe/blomqvist</website>
+  <forum>hhttps://github.com/ottokranz/blomqvist</forum>
+  <website>https://github.com/ottokranz/blomqvist</website>
   <assets>
     <icon>icon.png</icon>
     <fanart>fanart.jpg</fanart>
@@ -438,12 +438,12 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<description>dokumentalne.net</description>
-		<disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+		<disclaimer>https://github.com/ottokranz/blomqvist</disclaimer>
 		<summary>dokumentalne.net</summary>
 		<language>pl</language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>https://github.com/mbebe/blomqvist</website>
+		<website>https://github.com/ottokranz/blomqvist</website>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
@@ -553,13 +553,13 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="pl">Skróty meczów Ekstraklasy i nie tylko</summary>
-		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+		<disclaimer lang="pl">https://github.com/ottokranz/blomqvist</disclaimer>
 		<description lang="pl">Skróty meczów Ekstraklasy i nie tylko</description>
 		<language></language>
 		<platform></platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<forum>https://github.com/mbebe/blomqvist/issues</forum>
-		<website>https://github.com/mbebe/blomqvist</website>
+		<forum>https://github.com/ottokranz/blomqvist/issues</forum>
+		<website>https://github.com/ottokranz/blomqvist</website>
 		<email></email>
 		<assets>
 			<icon>icon.png</icon>
@@ -590,12 +590,12 @@ Tabele, terminarze, listy strzelców
     </extension>
     <extension point="xbmc.addon.metadata">
         <description>fbox.to</description>
-        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer>https://github.com/ottokranz/blomqvist</disclaimer>
         <summary>fmovies.to</summary>
         <language>pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -702,8 +702,8 @@ Róbta co chceta! :)
   <language></language>
   <platform>all</platform>
   <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum>https://github.com/mbebe/blomqvist/issues</forum>
-  <website>https://github.com/mbebe/blomqvist</website>
+  <forum>https://github.com/ottokranz/blomqvist/issues</forum>
+  <website>https://github.com/ottokranz/blomqvist</website>
   <email></email>
   <source></source>
   <assets>
@@ -727,12 +727,12 @@ Róbta co chceta! :)
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="pl">http://filmowo.club/</description>
-        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="pl">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="pl">http://filmowo.club/</summary>
         <language>pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -766,7 +766,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.33" provider-name="mbebe">
+<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.34" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl"/>
@@ -776,12 +776,12 @@ Róbta co chceta! :)
     </extension>
     <extension point="xbmc.addon.metadata">
         <description>fmoviesz.to</description>
-        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer>https://github.com/ottokranz/blomqvist</disclaimer>
         <summary>fmoviesz.to</summary>
         <language>pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -831,12 +831,12 @@ Róbta co chceta! :)
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<description lang="en">GOmovies.sx</description>
-		<disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+		<disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
 		<summary lang="en">GOmovies.sx</summary>
 		<language>en</language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>https://github.com/mbebe/blomqvist</website>
+		<website>https://github.com/ottokranz/blomqvist</website>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
@@ -879,12 +879,12 @@ Róbta co chceta! :)
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="en">goojara.to</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">Watch movies</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -904,15 +904,15 @@ Róbta co chceta! :)
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="en">https://www.grupa-mirai.pl/</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">https://www.grupa-mirai.pl/</summary>
         <description lang="pl">https://www.grupa-mirai.pl/</description>
-        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="pl">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="pl">https://www.grupa-mirai.pl/</summary>
         <language>pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -964,12 +964,12 @@ Róbta co chceta! :)
     <extension point="xbmc.service" library="serverHTTP.py" />
     <extension point="xbmc.addon.metadata">
         <description>UPC TV GO</description>
-        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer>https://github.com/ottokranz/blomqvist</disclaimer>
         <summary>UPC TV GO</summary>
         <language>pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -1044,12 +1044,12 @@ Róbta co chceta! :)
 
     <extension point="xbmc.addon.metadata">
         <description lang="en">KICK.com</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">KICK.com</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -1070,12 +1070,12 @@ Róbta co chceta! :)
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="en">kimcartoon</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">Watch cartoons</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -1118,12 +1118,12 @@ Róbta co chceta! :)
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="en">https://www.telelatinohd.com</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">https://www.telelatinohd.com</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -1144,12 +1144,12 @@ Róbta co chceta! :)
     <extension point="xbmc.service" library="serverHTTP.py" />
     <extension point="xbmc.addon.metadata">
         <description lang="en">https://www.lookmovie2.to</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">https://www.lookmovie2.to</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -1197,12 +1197,12 @@ Róbta co chceta! :)
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<description>MB filmy</description>
-		<disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+		<disclaimer>https://github.com/ottokranz/blomqvist</disclaimer>
 		<summary>MB filmy</summary>
 		<language>pl</language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>https://github.com/mbebe/blomqvist</website>
+		<website>https://github.com/ottokranz/blomqvist</website>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
@@ -1251,12 +1251,12 @@ Róbta co chceta! :)
     <extension point="xbmc.service" library="serverHTTP.py" />
     <extension point="xbmc.addon.metadata">
         <description lang="en">https://netflixmirror.com/</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">https://netflixmirror.com/</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -1354,10 +1354,10 @@ Róbta co chceta! :)
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="pl">PASTEBIN PlayVid</description>
-        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="pl">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="pl">PASTEBIN PlayVid</summary>
         <description lang="en">PASTEBIN PlayVid</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">PASTEBIN PlayVid</summary>
         <language></language>
         <platform>all</platform>
@@ -1473,7 +1473,7 @@ Róbta co chceta! :)
     <extension point="xbmc.service" library="serverHTTP.py" />
     <extension point="xbmc.addon.metadata">
         <description>Wydarzenia sportowe</description>
-        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer>https://github.com/ottokranz/blomqvist</disclaimer>
         <summary>Relacje Live</summary>
         <language></language>
         <platform>all</platform>
@@ -1575,12 +1575,12 @@ Róbta co chceta! :)
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<description>superanime.pl</description>
-		<disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+		<disclaimer>https://github.com/ottokranz/blomqvist</disclaimer>
 		<summary>superanime.pl</summary>
 		<language>pl</language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>https://github.com/mbebe/blomqvist</website>
+		<website>https://github.com/ottokranz/blomqvist</website>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
@@ -1625,15 +1625,15 @@ Róbta co chceta! :)
     <extension point="xbmc.service" library="service_entry.py"/>
     <extension point="xbmc.addon.metadata">
         <description lang="en">Live Sports</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">Live Sports</summary>
         <description lang="pl">Live Sports</description>
-        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="pl">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="pl">Live Sports</summary>
         <language>en pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -1680,12 +1680,12 @@ Róbta co chceta! :)
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="en">subsmovies.club</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">Watch movies with subtitles</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -1753,12 +1753,12 @@ Róbta co chceta! :)
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="en">Themoviebay.netb</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">Watch movies with subtitles</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -1780,12 +1780,12 @@ Róbta co chceta! :)
     <extension point="xbmc.service" library="serverHTTP.py" />
     <extension point="xbmc.addon.metadata">
         <description lang="en">Tugaflix.besty</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">Tugaflix.best</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -1891,12 +1891,12 @@ Róbta co chceta! :)
     <extension point="xbmc.service" library="serverHTTP.py" />
     <extension point="xbmc.addon.metadata">
         <description lang="en">https://tvparapobres.com</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">https://tvparapobres.com</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -1915,12 +1915,12 @@ Róbta co chceta! :)
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="en">TVseries.video</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">Watch tv shows</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -1940,15 +1940,15 @@ Róbta co chceta! :)
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="en">https://uktvlive.com/</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">https://uktvlive.com/</summary>
         <description lang="pl">https://uktvlive.com/</description>
-        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="pl">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="pl">https://uktvlive.com/</summary>
         <language>pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -2020,12 +2020,12 @@ Róbta co chceta! :)
     <extension point="xbmc.service" library="service_entry.py" />
     <extension point="xbmc.addon.metadata">
         <description lang="en">vix.com es-es</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">Vix.com</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -2072,12 +2072,12 @@ Róbta co chceta! :)
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="en">watchserieshd.tv</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">Watch series and movies</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
@@ -2121,12 +2121,12 @@ Róbta co chceta! :)
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="en">Wrestlingwatch_cam</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <disclaimer lang="en">https://github.com/ottokranz/blomqvist</disclaimer>
         <summary lang="en">Wrestlingwatch_cam</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website>https://github.com/ottokranz/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
